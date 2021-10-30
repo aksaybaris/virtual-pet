@@ -73,6 +73,5 @@ describe("walking increases fitness",()=>{
         expect(pet.hunger).toBe(0);
 
       });
-  
     });
 

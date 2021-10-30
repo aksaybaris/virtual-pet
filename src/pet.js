@@ -27,7 +27,6 @@ Pet.prototype.feed = function(){
         this.hunger = minHunger;
     }
 }
-
 /*{
     if(this.fitness <= 6){
         this.fitness = this.fitness+=4;
